@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eee;
+    margin: 0;
+    padding: 12px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
